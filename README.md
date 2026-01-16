@@ -11,4 +11,4 @@ Estimated MVAR and TV-MVAR parameters can be directly used to derive **functiona
 No installation is required. Clone the repository and run the provided scripts or notebooks directly in Python.
 
 ```bash
-git clone https://github.com/emad-askari/tvMVAR/tvMVAR-estimation.git
+git clone https://github.com/emad-askari/tvMVAR.git
